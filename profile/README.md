@@ -11,7 +11,7 @@ Our feature-rich managed WordPress hosting service and user-friendly dashboard a
 
 <p align="center">
     <a href="https://pressidium.com/free-trial/?utm_source=github&utm_medium=organization&utm_campaign=devrel">
-        <img width="850" src="https://github.com/user-attachments/assets/c462b665-5b2e-4ff9-9207-07197a7ff393" />
+        <img width="850" src="https://github.com/user-attachments/assets/41ef3d67-1b59-4851-b7e1-7de2d4486f87" />
     </a>
 </p>
 
