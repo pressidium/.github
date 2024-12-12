@@ -15,5 +15,5 @@ Our feature-rich managed WordPress hosting service and user-friendly dashboard a
     </a>
 </p>
 
-* [Try our Award-Winning WordPress Hosting for Free](https://pressidium.com/free-trial/)
-* [Explore our tailored hosting solutions](https://pressidium.com/wordpress-hosting-plans/)
+* [Try our Award-Winning WordPress Hosting for Free](https://pressidium.com/free-trial/?utm_source=github&utm_medium=organization&utm_campaign=devrel)
+* [Explore our tailored hosting solutions](https://pressidium.com/wordpress-hosting-plans/?utm_source=github&utm_medium=organization&utm_campaign=devrel)
