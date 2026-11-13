@@ -10,8 +10,8 @@ Our feature-rich managed WordPress hosting service and user-friendly dashboard a
 * Feature rich Dashboard with all the website management tools you need right at your fingertips
 
 <p align="center">
-    <a href="https://pressidium.com/free-trial/?utm_source=github&utm_medium=organization&utm_campaign=devrel">
-        <img width="850" src="https://github.com/user-attachments/assets/41ef3d67-1b59-4851-b7e1-7de2d4486f87" />
+    <a href="https://pressidium.com/wordpress-hosting-plans/?utm_source=github&utm_medium=organization&utm_campaign=devrel">
+        <img width="850" src="https://github.com/user-attachments/assets/ee3f763b-a3d6-474b-9307-7c6ce053e9b4" />
     </a>
 </p>
 
